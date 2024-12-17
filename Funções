@@ -8,7 +8,8 @@ int soma (int a, int b){  // parametros formais
 
 
 int main() {
-   
+   int a = soma(10, 20);
+    printf("o resultado da soma é: %d", a);
 
     return 0;
 }

@@ -1,0 +1,14 @@
+
+#include <stdio.h>
+
+int soma (int a, int b){  // parametros formais
+    int r = a+b;
+    return r;
+}
+
+
+int main() {
+   
+
+    return 0;
+}
